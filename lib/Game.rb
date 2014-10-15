@@ -1,4 +1,4 @@
-class Largest
+class Game
 	def self.find_largest(numbers)
 		numbers.max
 	end
